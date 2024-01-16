@@ -16,4 +16,4 @@ A few notes on usage here:
 - No other additional applications besides the dprinter drivers and software
 - I did this based on the Debain template, but I think a StandloneVM running based off of Fedora would work just as well for most printers 
 - This relies heavliy on copying over any scanned files to other Qubes for editing, sharing, etc.
-- No thoer
+- The scanning application was not registered as an Application to add to the start menu for this app, but it is simple enough to run via terminal (see last line of the script mentioned above)
